@@ -1,0 +1,22 @@
+what happens when you initialize a repository? Why do you need to do it?
+- git creates a .git
+
+adding some stuff here to practice merge How is the staging area different from the working directory and the repository? What value do you think it offers?
+- if you make changes in two files but only want to commit one file, stagging area lets you choose only one file. 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+- add the file that makes the logical change in stagging area and commit only that. 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- in cases when I want to try out a different feature or version of the code and want to leave the master branch unharmed and still want to track the changes in my new gig. sort of context switching, a new feature - experimental branch, working branch, particular feature branch 
+
+How do the diagrams help you visualize the branch structure?
+- easy to decide which branches are unreachable and what the last common commit was
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ 
+
+

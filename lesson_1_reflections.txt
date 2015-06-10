@@ -1,0 +1,21 @@
+Lesson 1: 
+git -> version control system
+github -> code sharing and collaboration platform. 
+
+Tools for automatically comparing files: 
+In windows ->  FC (file compare)
+in Mac and Linus -> Diff (difference)
+
+command:
+diff -u a.txt b.txt
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+i could focus on the differences than similarities. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+if i can always revert back to working copy of the code and walk from there. 
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
